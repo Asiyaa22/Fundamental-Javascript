@@ -1,0 +1,38 @@
+
+## 🧙‍♂️ Future Age Fortune Teller – Instructions
+
+### 🎯 Project Objective:
+You will create a small JavaScript project that predicts how old you’ll be in a future year using variables and basic math.
+
+---
+
+### 📝 What You Need to Do:
+
+1. **Create a variable for your name.**  
+   → It should be a text value (a string).
+
+2. **Create a variable for your birth year.**  
+   → This will be a number (for example: 2007).
+
+3. **Create a variable for the current year.**  
+   → Use the present year (example: 2025).
+
+4. **Create a variable for a future year you choose.**  
+   → Pick any year you want to know your age in (example: 2035).
+
+5. **Calculate your current age.**  
+   → Use subtraction to find how old you are this year.
+
+6. **Calculate your age in the future year.**  
+   → Again, use subtraction to find how old you'll be in the year you picked.
+
+7. **Print friendly messages to the console.**  
+   → Tell your name, current age, and future age in a fun way using messages.
+
+---
+
+### 💡 Bonus Challenge:
+- Try changing the years to see different results.
+- Try calculating how old you were in the past (like in 2015).
+
+---

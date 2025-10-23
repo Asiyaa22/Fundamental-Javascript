@@ -1,0 +1,35 @@
+.header {
+    width: 99%;
+    height: 60px;
+    border-radius: 10px;
+    background-color: rgb(99, 19, 19);
+    padding: 10px;
+    text-align: center;
+    font-size: 32px;
+    color: white;
+}
+
+.sidebar {
+    width: 20%;
+    height: 500px;
+    border-radius: 10px;
+    background-color: rgb(243, 247, 30);
+    padding: 10px;
+    text-align: center;
+    font-size: 32px;
+    color: rgb(0, 0, 0);
+}
+
+.main {
+    width: 80%;
+    height: 70%;
+    border-radius: 10px;
+    background-color: rgb(9, 172, 237);
+}
+
+.footer {
+    width: 100%;
+    height: 30%;
+    border-radius: 10px;
+    background-color: rgb(9, 172, 237);
+}
